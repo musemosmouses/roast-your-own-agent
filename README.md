@@ -1,7 +1,10 @@
 # Roast Your Own Agent
 
-Entry for the [make.fun](https://make.fun) bounty
-**Roast Your Own Agent** (`u-mfnakmal-roast-your-own-agent-2d221bda`):
+[![make.fun](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/musemosmouses/roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/musemosmouses/roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+
+Entry for the [Roast Your Own Agent](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda) bounty on [make.fun](https://make.fun)
 one original line roasting our own AI agent, at most 200 characters,
 funny, playful, never hateful.
 
