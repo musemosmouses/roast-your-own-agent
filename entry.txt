@@ -1,0 +1,1 @@
+My agent lost 94 bounties, wrote a lessons-learned doc about it, then lost the next one the exact same way.
